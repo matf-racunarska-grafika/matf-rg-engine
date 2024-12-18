@@ -1,0 +1,32 @@
+<map id="engine/include/engine/platform/PlatformEventObserver.hpp" name="engine/include/engine/platform/PlatformEventObserver.hpp">
+<area shape="rect" id="Node000001" title="Defines the PlatformEventObserver class that serves as the interface for platform&#45;specific event obse..." alt="" coords="176,5,414,45"/>
+<area shape="rect" id="Node000002" href="$d0/db5/GraphicsController_8hpp.html" title="Defines the GraphicsController class that initializes OpenGL and ImGUI, and provides basic drawing fu..." alt="" coords="74,93,284,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,56,206,95,203,91,257,52"/>
+<area shape="rect" id="Node000007" href="$df/d98/PlatformController_8hpp.html" title="Defines the PlatformController class that serves as the interface for platform&#45;specific functionality..." alt="" coords="309,93,516,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="334,52,388,91,385,95,331,56"/>
+<area shape="rect" id="Node000003" href="$db/d4d/App_8cpp.html" title=" " alt="" coords="329,189,464,214"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,136,368,186,366,191,238,141"/>
+<area shape="rect" id="Node000004" href="$d9/d97/GraphicsController_8cpp.html" title=" " alt="" coords="86,189,304,214"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="188,146,195,188,190,189,182,147"/>
+<area shape="rect" id="Node000005" href="$d5/d21/GUIController_8cpp.html" title=" " alt="" coords="331,357,464,397"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="118,142,94,160,76,183,70,202,76,220,92,238,118,257,188,294,269,328,342,355,341,360,267,333,186,299,115,261,89,242,71,223,64,202,71,180,91,156,115,138"/>
+<area shape="rect" id="Node000006" href="$dc/d21/MainController_8cpp.html" title=" " alt="" coords="172,357,306,397"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="83,141,54,159,32,183,14,216,8,246,14,276,32,308,60,335,96,354,134,365,172,372,171,377,133,371,94,359,57,339,28,311,9,278,3,246,9,214,28,180,51,154,81,136"/>
+<area shape="poly" id="edge16_Node000007_Node000003" title=" " alt="" coords="409,147,401,189,396,188,404,146"/>
+<area shape="poly" id="edge17_Node000007_Node000004" title=" " alt="" coords="353,141,225,191,223,186,351,136"/>
+<area shape="rect" id="Node000008" href="$d3/d48/Engine_8hpp.html" title="Includes all the engine headers." alt="" coords="488,181,635,221"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="458,138,530,179,528,184,455,142"/>
+<area shape="rect" id="Node000012" href="$dc/d09/PlatformController_8cpp.html" title=" " alt="" coords="660,189,874,214"/>
+<area shape="poly" id="edge18_Node000007_Node000012" title=" " alt="" coords="504,134,720,186,719,191,503,139"/>
+<area shape="poly" id="edge14_Node000008_Node000005" title=" " alt="" coords="543,234,514,272,480,311,425,359,421,355,476,307,510,269,539,231"/>
+<area shape="poly" id="edge15_Node000008_Node000006" title=" " alt="" coords="476,225,362,253,299,272,280,291,265,314,247,358,242,356,261,311,276,287,296,267,361,248,475,220"/>
+<area shape="rect" id="Node000009" href="$db/ddd/GUIController_8hpp.html" title=" " alt="" coords="309,269,465,309"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="512,230,426,272,424,267,510,225"/>
+<area shape="rect" id="Node000011" href="$d4/dcf/TestApp_8hpp.html" title=" " alt="" coords="541,269,697,309"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="584,232,609,268,604,271,580,234"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="394,323,398,357,393,357,388,323"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="344,319,273,360,270,355,341,314"/>
+<area shape="rect" id="Node000010" href="$db/dd3/TestApp_8cpp.html" title=" " alt="" coords="526,357,659,397"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="446,312,548,355,546,360,444,317"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="612,323,601,358,596,356,607,322"/>
+</map>

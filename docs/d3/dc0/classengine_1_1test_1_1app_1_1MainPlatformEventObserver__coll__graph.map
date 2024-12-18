@@ -1,0 +1,5 @@
+<map id="engine::test::app::MainPlatformEventObserver" name="engine::test::app::MainPlatformEventObserver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,192,133"/>
+<area shape="rect" id="Node000002" href="$dc/d04/classengine_1_1platform_1_1PlatformEventObserver.html" title="Platform events callback object. Extend this class and override the methods you want to be called by ..." alt="" coords="13,5,185,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,59,101,93,96,93,96,59"/>
+</map>

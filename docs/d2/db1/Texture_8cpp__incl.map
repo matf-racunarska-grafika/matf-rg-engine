@@ -1,0 +1,22 @@
+<map id="engine/src/Texture.cpp" name="engine/src/Texture.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="135,5,289,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,91,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,33,88,76,86,71,185,28"/>
+<area shape="rect" id="Node000003" href="$d0/ddc/Texture_8hpp.html" title="Defines the Texture class that serves as an abstraction over OpenGL textures." alt="" coords="115,79,309,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,31,215,65,209,65,209,31"/>
+<area shape="rect" id="Node000007" href="$d2/def/Errors_8hpp.html" title="Defines Error, UserError, and EngineError classes, along with macros for error handling." alt="" coords="335,79,481,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="244,28,364,71,362,76,243,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="55,152,143,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,106,130,147,127,142,192,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="167,152,249,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="214,104,212,139,207,138,209,104"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="273,152,327,177"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="228,102,277,141,273,145,224,106"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="392,106,331,147,328,142,389,102"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="351,152,465,177"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="411,104,411,138,405,138,405,104"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="489,152,543,177"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="427,102,488,142,485,147,424,106"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="568,152,627,177"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="439,102,556,145,554,150,437,107"/>
+</map>

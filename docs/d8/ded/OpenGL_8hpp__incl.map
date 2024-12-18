@@ -1,0 +1,30 @@
+<map id="engine/include/engine/graphics/OpenGL.hpp" name="engine/include/engine/graphics/OpenGL.hpp">
+<area shape="rect" id="Node000001" title="Defines the OpenGL class that serves as the interface for OpenGL." alt="" coords="167,5,319,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="144,93,205,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,47,196,84,192,81,224,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,240,88,265"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,46,236,82,220,120,189,157,153,189,83,235,80,231,149,185,185,154,215,117,231,80,238,45"/>
+<area shape="rect" id="Node000004" href="$d4/d6e/Shader_8hpp.html" title="Defines the Shader class that serves as an abstraction over OpenGL shaders." alt="" coords="334,93,525,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="288,43,390,85,388,90,286,48"/>
+<area shape="rect" id="Node000005" href="$d7/d09/Utils_8hpp.html" title="Defines utility functions, macros, algorithms, and data structures." alt="" coords="294,167,431,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="420,121,385,158,381,155,416,117"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="455,167,510,192"/>
+<area shape="poly" id="edge13_Node000004_Node000013" title=" " alt="" coords="440,117,468,154,464,157,436,121"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="535,167,628,192"/>
+<area shape="poly" id="edge14_Node000004_Node000014" title=" " alt="" coords="455,116,545,158,543,163,453,121"/>
+<area shape="poly" id="edge9_Node000005_Node000003" title=" " alt="" coords="312,195,102,242,101,236,311,189"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="112,240,171,265"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="328,195,185,240,183,235,326,189"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="195,240,309,265"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="346,194,283,235,280,230,343,190"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="333,240,392,265"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="365,192,365,226,360,226,360,192"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="416,240,475,265"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="378,190,423,229,420,233,374,194"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="499,240,578,265"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="392,190,498,232,496,237,390,194"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="603,240,707,265"/>
+<area shape="poly" id="edge11_Node000005_Node000011" title=" " alt="" coords="410,189,595,234,594,239,409,195"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="731,240,813,265"/>
+<area shape="poly" id="edge12_Node000005_Node000012" title=" " alt="" coords="432,189,717,237,716,242,431,194"/>
+</map>

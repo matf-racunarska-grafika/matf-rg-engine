@@ -1,0 +1,9 @@
+<map id="engine/include/engine/resources/Skybox.hpp" name="engine/include/engine/resources/Skybox.hpp">
+<area shape="rect" id="Node000001" title="Defines the Skybox class that serves as the interface for skybox rendering." alt="" coords="54,5,210,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,67,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,48,62,87,59,82,107,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="91,93,173,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,46,135,79,129,79,129,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="197,93,251,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,44,202,82,198,86,153,48"/>
+</map>

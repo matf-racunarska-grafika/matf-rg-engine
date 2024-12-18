@@ -1,0 +1,37 @@
+<map id="engine/include/engine/resources/Texture.hpp" name="engine/include/engine/resources/Texture.hpp">
+<area shape="rect" id="Node000001" title="Defines the Texture class that serves as an abstraction over OpenGL textures." alt="" coords="436,5,591,45"/>
+<area shape="rect" id="Node000002" href="$d3/d48/Engine_8hpp.html" title="Includes all the engine headers." alt="" coords="157,357,304,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="423,47,365,66,305,94,250,132,227,156,208,183,198,204,194,228,196,276,209,321,223,356,218,358,204,323,191,277,188,227,193,203,203,180,223,153,247,128,303,89,363,61,422,42"/>
+<area shape="rect" id="Node000008" href="$d1/d62/Mesh_8hpp.html" title="Defines the Mesh class that serves as the interface for mesh rendering and storing processed assimp s..." alt="" coords="385,93,532,133"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="496,58,473,95,469,92,492,56"/>
+<area shape="rect" id="Node000010" href="$d9/d10/ResourcesController_8hpp.html" title="Defines the ResourcesController class that manages resources such as models, textures,..." alt="" coords="439,269,670,309"/>
+<area shape="poly" id="edge19_Node000001_Node000010" title=" " alt="" coords="533,57,547,93,555,142,559,191,559,269,553,269,554,191,550,143,541,94,528,59"/>
+<area shape="rect" id="Node000015" href="$d5/d87/Texture_8cpp.html" title=" " alt="" coords="607,101,761,126"/>
+<area shape="poly" id="edge20_Node000001_Node000015" title=" " alt="" coords="564,49,662,98,660,103,562,54"/>
+<area shape="rect" id="Node000003" href="$db/ddd/GUIController_8hpp.html" title=" " alt="" coords="95,445,251,485"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="212,410,188,447,184,444,208,408"/>
+<area shape="rect" id="Node000004" href="$d5/d21/GUIController_8cpp.html" title=" " alt="" coords="5,533,139,573"/>
+<area shape="poly" id="edge8_Node000002_Node000004" title=" " alt="" coords="146,402,112,421,85,447,75,468,70,490,71,533,66,533,65,490,70,466,81,444,109,416,143,398"/>
+<area shape="rect" id="Node000005" href="$dc/d21/MainController_8cpp.html" title=" " alt="" coords="171,533,306,573"/>
+<area shape="poly" id="edge9_Node000002_Node000005" title=" " alt="" coords="252,409,265,445,267,469,264,493,251,534,246,532,259,492,262,469,260,446,247,411"/>
+<area shape="rect" id="Node000007" href="$d4/dcf/TestApp_8hpp.html" title=" " alt="" coords="327,445,483,485"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="282,401,368,443,366,448,280,406"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="142,496,96,535,93,531,139,492"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="198,495,226,531,222,535,194,498"/>
+<area shape="rect" id="Node000006" href="$db/dd3/TestApp_8cpp.html" title=" " alt="" coords="335,533,468,573"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="237,488,352,531,350,536,235,493"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="406,499,405,533,400,533,401,499"/>
+<area shape="rect" id="Node000009" href="$df/d6e/Model_8hpp.html" title="Defines the Model class that serves as the interface for model rendering." alt="" coords="217,181,364,221"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="411,142,329,184,326,179,409,137"/>
+<area shape="rect" id="Node000014" href="$d2/dcc/Mesh_8cpp.html" title=" " alt="" coords="389,189,531,214"/>
+<area shape="poly" id="edge18_Node000008_Node000014" title=" " alt="" coords="462,147,462,188,457,188,457,147"/>
+<area shape="poly" id="edge12_Node000009_Node000002" title=" " alt="" coords="275,234,258,270,245,317,236,358,231,357,240,316,254,268,270,232"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="362,223,498,267,496,272,361,228"/>
+<area shape="rect" id="Node000013" href="$dd/d2e/Model_8cpp.html" title=" " alt="" coords="268,277,415,302"/>
+<area shape="poly" id="edge17_Node000009_Node000013" title=" " alt="" coords="311,232,337,275,332,278,307,235"/>
+<area shape="poly" id="edge14_Node000010_Node000002" title=" " alt="" coords="471,315,302,360,301,355,470,310"/>
+<area shape="rect" id="Node000011" href="$db/d4d/App_8cpp.html" title=" " alt="" coords="638,365,773,390"/>
+<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="601,314,687,362,684,367,598,318"/>
+<area shape="rect" id="Node000012" href="$de/d81/ResourcesController_8cpp.html" title=" " alt="" coords="384,365,613,390"/>
+<area shape="poly" id="edge16_Node000010_Node000012" title=" " alt="" coords="537,322,509,366,504,363,533,319"/>
+</map>

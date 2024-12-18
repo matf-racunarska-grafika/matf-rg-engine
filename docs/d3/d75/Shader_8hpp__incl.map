@@ -1,0 +1,25 @@
+<map id="engine/include/engine/resources/Shader.hpp" name="engine/include/engine/resources/Shader.hpp">
+<area shape="rect" id="Node000001" title="Defines the Shader class that serves as an abstraction over OpenGL shaders." alt="" coords="429,5,581,45"/>
+<area shape="rect" id="Node000002" href="$d7/d09/Utils_8hpp.html" title="Defines utility functions, macros, algorithms, and data structures." alt="" coords="317,93,454,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="478,48,416,88,413,84,475,43"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="478,93,533,119"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="508,46,508,79,503,79,503,46"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="557,93,651,119"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="531,43,580,82,577,87,528,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,64,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,121,210,141,78,169,77,164,209,136,318,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="89,167,202,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="348,121,198,165,197,160,346,116"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="227,167,285,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="366,121,291,162,288,157,363,116"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="309,167,368,192"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="380,120,356,157,352,154,375,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="392,167,475,192"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="395,118,420,154,416,157,391,121"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="499,167,578,192"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="411,116,502,158,500,163,409,121"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="603,167,707,192"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="429,116,599,161,597,166,428,121"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="731,167,813,192"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="454,116,717,164,716,169,453,121"/>
+</map>

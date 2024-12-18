@@ -1,0 +1,7 @@
+<map id="engine/include/engine/platform/PlatformEventObserver.hpp" name="engine/include/engine/platform/PlatformEventObserver.hpp">
+<area shape="rect" id="Node000001" title="Defines the PlatformEventObserver class that serves as the interface for platform&#45;specific event obse..." alt="" coords="5,5,243,45"/>
+<area shape="rect" id="Node000002" href="$d1/d36/Input_8hpp.html" title="Defines the Input class that serves as the interface handling user input via keyboard and mouse." alt="" coords="39,93,209,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,46,127,79,121,79,121,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="80,167,168,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,119,127,153,121,153,121,119"/>
+</map>

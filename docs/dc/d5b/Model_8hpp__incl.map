@@ -1,0 +1,20 @@
+<map id="engine/include/engine/resources/Model.hpp" name="engine/include/engine/resources/Model.hpp">
+<area shape="rect" id="Node000001" title="Defines the Model class that serves as the interface for model rendering." alt="" coords="364,5,511,45"/>
+<area shape="rect" id="Node000002" href="$d1/d62/Mesh_8hpp.html" title="Defines the Mesh class that serves as the interface for mesh rendering and storing processed assimp s..." alt="" coords="137,93,319,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,48,273,91,271,86,386,43"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="400,240,453,265"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="439,46,431,226,425,226,434,45"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="475,93,549,119"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="457,44,493,81,489,85,453,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,99,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,121,95,164,93,159,199,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="123,167,181,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="218,121,176,159,173,155,214,117"/>
+<area shape="rect" id="Node000005" href="$d0/ddc/Texture_8hpp.html" title="Defines the Texture class that serves as an abstraction over OpenGL textures." alt="" coords="206,167,399,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="242,117,282,155,279,159,238,121"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="160,240,248,265"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="288,194,233,234,230,230,285,190"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="272,240,355,265"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="307,192,312,226,307,227,302,193"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="324,190,396,231,393,235,321,194"/>
+</map>

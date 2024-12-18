@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d1/d39/classengine_1_1core_1_1Controller.html" title="Controllers are a hook into the App main loop execution. By overriding virtual functions of this clas..." alt="" coords="5,191,163,217"/>
+<area shape="rect" id="Node000001" href="$dc/dea/classengine_1_1core_1_1EngineControllersBegin.html" title="This controller does nothing and together with EngineControllersEnd it servers as a sentinel controll..." alt="" coords="222,5,426,45"/>
+<area shape="poly" id="edge2_Node000000_Node000001" title=" " alt="" coords="98,178,142,117,173,83,209,55,232,43,235,48,212,60,177,87,146,120,102,181"/>
+<area shape="rect" id="Node000002" href="$dd/d63/classengine_1_1core_1_1EngineControllersEnd.html" title="This controller does nothing and together with EngineControllersEnd it servers as a sentinel controll..." alt="" coords="211,70,437,95"/>
+<area shape="poly" id="edge3_Node000000_Node000002" title=" " alt="" coords="106,180,151,142,210,106,245,93,247,98,212,110,155,146,109,184"/>
+<area shape="rect" id="Node000003" href="$d2/d9a/classengine_1_1graphics_1_1GraphicsController.html" title="Implements basic drawing methods that the core::App implementation uses." alt="" coords="235,120,413,160"/>
+<area shape="poly" id="edge4_Node000000_Node000003" title=" " alt="" coords="145,185,247,158,249,163,146,190"/>
+<area shape="rect" id="Node000004" href="$d3/dd5/classengine_1_1platform_1_1PlatformController.html" title="Registers Platform events such as mouse movement, key press, window events..." alt="" coords="238,184,410,224"/>
+<area shape="poly" id="edge5_Node000000_Node000004" title=" " alt="" coords="177,201,238,201,238,207,177,207"/>
+<area shape="rect" id="Node000005" href="$d3/d93/classengine_1_1resources_1_1ResourcesController.html" title="Manages app resources: Model, Texture, Shader, and Skybox." alt="" coords="253,248,395,288"/>
+<area shape="poly" id="edge6_Node000000_Node000005" title=" " alt="" coords="147,218,254,247,253,252,145,223"/>
+<area shape="rect" id="Node000006" href="$d6/def/classengine_1_1test_1_1app_1_1GUIController.html" title=" " alt="" coords="261,312,387,352"/>
+<area shape="poly" id="edge7_Node000000_Node000006" title=" " alt="" coords="110,224,155,262,212,298,262,316,260,321,209,302,152,266,107,228"/>
+<area shape="rect" id="Node000007" href="$de/d94/classengine_1_1test_1_1app_1_1MainController.html" title=" " alt="" coords="261,376,387,416"/>
+<area shape="poly" id="edge8_Node000000_Node000007" title=" " alt="" coords="101,228,144,295,176,331,212,362,236,374,261,383,259,388,234,379,209,366,172,335,140,298,96,231"/>
+</map>

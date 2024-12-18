@@ -1,0 +1,36 @@
+<map id="engine/include/engine/platform/Input.hpp" name="engine/include/engine/platform/Input.hpp">
+<area shape="rect" id="Node000001" title="Defines the Input class that serves as the interface handling user input via keyboard and mouse." alt="" coords="310,5,457,45"/>
+<area shape="rect" id="Node000002" href="$d3/d48/Engine_8hpp.html" title="Includes all the engine headers." alt="" coords="99,269,246,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="362,58,190,271,186,267,358,54"/>
+<area shape="rect" id="Node000008" href="$df/d98/PlatformController_8hpp.html" title="Defines the PlatformController class that serves as the interface for platform&#45;specific functionality..." alt="" coords="357,181,564,221"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="390,59,398,95,411,132,427,158,444,179,440,183,422,161,406,134,393,96,385,60"/>
+<area shape="rect" id="Node000012" href="$d6/da0/PlatformEventObserver_8hpp.html" title="Defines the PlatformEventObserver class that serves as the interface for platform&#45;specific event obse..." alt="" coords="421,93,658,133"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="431,50,506,91,504,96,428,54"/>
+<area shape="rect" id="Node000003" href="$db/ddd/GUIController_8hpp.html" title=" " alt="" coords="185,357,341,397"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,317,245,355,241,359,201,321"/>
+<area shape="rect" id="Node000004" href="$d5/d21/GUIController_8cpp.html" title=" " alt="" coords="285,445,418,485"/>
+<area shape="poly" id="edge8_Node000002_Node000004" title=" " alt="" coords="260,310,319,331,341,343,356,356,366,378,368,402,361,446,355,445,363,402,361,379,352,359,338,347,316,335,258,315"/>
+<area shape="rect" id="Node000005" href="$dc/d21/MainController_8cpp.html" title=" " alt="" coords="443,445,577,485"/>
+<area shape="poly" id="edge9_Node000002_Node000005" title=" " alt="" coords="260,309,320,328,379,355,413,376,444,400,493,443,490,447,441,404,410,380,377,360,318,333,258,314"/>
+<area shape="rect" id="Node000007" href="$d4/dcf/TestApp_8hpp.html" title=" " alt="" coords="5,357,161,397"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="145,321,105,359,101,355,141,317"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="295,405,334,443,330,447,291,409"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="331,399,457,443,455,448,330,404"/>
+<area shape="rect" id="Node000006" href="$db/dd3/TestApp_8cpp.html" title=" " alt="" coords="86,445,219,485"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="229,408,179,447,176,443,226,404"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="109,407,139,443,135,447,105,410"/>
+<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="385,228,236,272,235,267,383,223"/>
+<area shape="rect" id="Node000009" href="$db/d4d/App_8cpp.html" title=" " alt="" coords="509,277,644,302"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="499,228,563,274,559,279,496,232"/>
+<area shape="rect" id="Node000010" href="$d9/d97/GraphicsController_8cpp.html" title=" " alt="" coords="669,277,887,302"/>
+<area shape="poly" id="edge13_Node000008_Node000010" title=" " alt="" coords="544,222,736,274,735,279,543,228"/>
+<area shape="rect" id="Node000011" href="$dc/d09/PlatformController_8cpp.html" title=" " alt="" coords="271,277,485,302"/>
+<area shape="poly" id="edge14_Node000008_Node000011" title=" " alt="" coords="435,233,391,278,388,274,431,229"/>
+<area shape="poly" id="edge21_Node000012_Node000008" title=" " alt="" coords="515,145,480,183,476,179,511,142"/>
+<area shape="rect" id="Node000013" href="$d0/db5/GraphicsController_8hpp.html" title="Defines the GraphicsController class that initializes OpenGL and ImGUI, and provides basic drawing fu..." alt="" coords="673,181,883,221"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="606,136,727,179,725,184,604,141"/>
+<area shape="poly" id="edge19_Node000013_Node000004" title=" " alt="" coords="853,225,880,243,902,268,909,290,901,311,881,322,839,337,708,375,419,450,418,445,706,370,837,332,879,317,897,308,904,290,897,271,877,247,850,230"/>
+<area shape="poly" id="edge20_Node000013_Node000005" title=" " alt="" coords="891,224,921,242,945,268,964,302,972,335,966,367,945,399,920,418,883,433,837,444,784,453,675,463,577,467,577,461,674,458,784,448,836,439,881,428,918,413,941,396,961,365,966,335,959,304,941,271,918,247,888,229"/>
+<area shape="poly" id="edge17_Node000013_Node000009" title=" " alt="" coords="722,229,605,279,602,274,720,224"/>
+<area shape="poly" id="edge18_Node000013_Node000010" title=" " alt="" coords="781,235,781,276,775,276,775,235"/>
+</map>

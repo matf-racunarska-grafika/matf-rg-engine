@@ -1,0 +1,15 @@
+<map id="engine/include/engine/resources/Mesh.hpp" name="engine/include/engine/resources/Mesh.hpp">
+<area shape="rect" id="Node000001" title="Defines the Mesh class that serves as the interface for mesh rendering and storing processed assimp s..." alt="" coords="79,5,225,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,99,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,48,79,87,76,82,126,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="123,93,181,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,46,155,79,149,79,149,46"/>
+<area shape="rect" id="Node000004" href="$d0/ddc/Texture_8hpp.html" title="Defines the Texture class that serves as an abstraction over OpenGL textures." alt="" coords="206,93,399,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="189,43,269,84,267,89,187,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="149,167,237,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="287,121,224,161,221,157,284,116"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="261,167,344,192"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="305,119,305,153,300,153,300,119"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="368,167,421,192"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="319,117,371,156,367,160,316,121"/>
+</map>

@@ -15,6 +15,5 @@ _deps
 /cmake-build-release/
 /.idea/
 *.a
-/docs/
 engine/test/app/test-app
 app/APP

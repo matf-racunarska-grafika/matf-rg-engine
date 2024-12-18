@@ -1,0 +1,21 @@
+<map id="engine/include/engine/core/Controller.hpp" name="engine/include/engine/core/Controller.hpp">
+<area shape="rect" id="Node000001" title="Defines the Controller class that serves as the base class for all controllers in the engine." alt="" coords="370,5,517,45"/>
+<area shape="rect" id="Node000002" href="$d2/def/Errors_8hpp.html" title="Defines Error, UserError, and EngineError classes, along with macros for error handling." alt="" coords="136,93,281,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,48,257,92,255,87,386,43"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="306,93,375,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="420,48,368,87,365,83,417,43"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="399,93,487,119"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="446,46,446,79,441,79,441,46"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="511,93,570,119"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="469,43,517,82,514,87,465,48"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="595,93,663,119"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="489,43,590,85,588,90,487,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,119,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,121,99,163,97,158,184,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="143,167,197,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="205,120,185,156,180,153,200,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="222,167,275,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="218,118,238,153,233,156,213,120"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="299,167,358,192"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="229,116,298,157,296,162,227,121"/>
+</map>
