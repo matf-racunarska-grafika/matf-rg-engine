@@ -75,41 +75,6 @@ class App {
     };
 ```
 
-## Project structure
-
-Here is how the `Engine` is structured. You only need to include `<engine/core/Engine.hpp>` in your part of the project
-and all the header files will be available.
-
-```bash
-├── core
-│   ├── App.hpp
-│   ├── Controller.hpp
-│   └── Engine.hpp
-├── graphics
-│   ├── Camera.hpp
-│   ├── GraphicsController.hpp
-│   └── OpenGL.hpp
-├── platform
-│   ├── Input.hpp
-│   ├── PlatformController.hpp
-│   ├── PlatformEventObserver.hpp
-│   └── Window.hpp
-├── resources
-│   ├── Mesh.hpp
-│   ├── Model.hpp
-│   ├── ResourcesController.hpp
-│   ├── ShaderCompiler.hpp
-│   ├── Shader.hpp
-│   ├── Skybox.hpp
-│   └── Texture.hpp
-└── util
-    ├── ArgParser.hpp
-    ├── Configuration.hpp
-    ├── Errors.hpp
-    └── Utils.hpp
-p
-```
-
 ## How ...
 
 ### How to set up a basic app?
